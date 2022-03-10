@@ -48,7 +48,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             주요경력
+  - title:             주요 경력
     url:               /example/
   - title:             할수 있는 것
     url:               /docs/
