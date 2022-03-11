@@ -50,8 +50,8 @@ author:
 menu:
   - title:             주요 경력
     url:               /example/
-  - title:             할수 있는 것
-    url:               /docs/
+  - title:             사용 가능 언어
+    url:               /example1/
   - title:             About me
     url:               /about/
 
