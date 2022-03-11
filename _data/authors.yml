@@ -9,6 +9,7 @@ author1:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
     해보자 해보자 할수있다
+    Please check my [CV](/assets/CV.pdf)
 
   # This photo will be used in the about section
   picture:

@@ -48,10 +48,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             주요 경력
-    url:               /example/
-  - title:             사용 가능 언어
-    url:               /example1/
+  - title:             학력
+    url:               /ability/
+  - title:             경력
+    url:               /career/
   - title:             About me
     url:               /about/
 
