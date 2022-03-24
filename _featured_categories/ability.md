@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: 학력
+title: 핵심 역량
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: ability
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  학력
+  핵심 역량
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

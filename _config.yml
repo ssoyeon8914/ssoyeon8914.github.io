@@ -20,15 +20,15 @@ url:                   https://ssoyeon8914.github.io/
 lang:                  en-US, ko-KR
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 백엔드 개발을 꿈꾸는 개발자
+title:                 빠르게 배우고 바르게 문제를 해결하려 하는 개발자 김소연
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  해보자 해보자 할수있다
+  빠르게 배우고 바르게 문제를 해결하려 하는 개발자 김소연입니다.
 
 # A shorter description for the sidebar.
-tagline:               열심히 해보자!!!
+tagline:               검색엔진 프로젝트 개발 경험이 많으며, 백엔드 개발자가 되고자 합니다.
 
 # A list of keywords for your blog
 keywords:              [백엔드, Java, git, gitblog]
@@ -48,11 +48,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             학력
-    url:               /ability/
-  - title:             경력
+  - title:             지난 경력
     url:               /career/
-  - title:             About me
+  - title:             핵심 역량
+    url:               /ability/
+  - title:             저는 이런 사람이에요
     url:               /about/
 
 # Add links to the footer.
